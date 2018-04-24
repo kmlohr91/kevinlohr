@@ -272,7 +272,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .info h4, #header h4{
   color: #999;
-  text-align: justify;
+  text-align: center;
 }
 /* Contact */
 .main-links{
