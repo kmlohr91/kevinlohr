@@ -450,12 +450,12 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   border-radius: .25em;
 }
 .label-info {
-  background-color: #b3b6b7;
+  background-color: #979A9A;
 }
 
 .label-info[href]:hover,
 .label-info[href]:focus {
-  background-color: #31b0d5;
+  background-color: #979A9A;
 }
 .label[href]:hover,
 .label[href]:focus {
