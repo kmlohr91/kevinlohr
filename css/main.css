@@ -275,6 +275,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .info p1, #paragraph p1{
   text-align: center;
+  letter-spacing: 2px;
 }
 /* Contact */
 .main-links{
