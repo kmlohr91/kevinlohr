@@ -251,8 +251,8 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 /* Photo */
 .photo{
   float: left;
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
   margin-right: 20px;
   overflow: hidden;
   min-width: 25%;
@@ -265,7 +265,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .info{
   float: left;
-  width: calc(100% - 400px);
+  width: calc(100% - 750px);
 }
 .info h2, #header h2{
   text-transform: uppercase;
