@@ -265,7 +265,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .info{
   float: left;
-  width: calc(100% - 225px);
+  width: calc(100% - 215px);
 }
 .info h2, #header h2{
   text-transform: uppercase;
